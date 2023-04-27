@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working in Oracle Cloud - Tech Cloud Analytics team as an Engineer.<br>🤝 I’m looking for a deeper dive into Data Science and Machine Learning.<br>🌱 Interested in the newest innovations in Data Science Field.<br>📫 How to reach me: manjarinm10@gmail.com<br>⚡ Fun Fact - I like bursting my ears with music while I'm working.
+🔭 I’m currently working in Oracle Cloud - Tech Cloud Analytics team as an Engineer.<br>🤝 I’m looking for a Data Scientist / Machine Learning Engineer role.<br>🌱 Interested in the newest innovations in Data Science Field.<br>📫 How to reach me: manjarinm10@gmail.com<br>⚡ Fun Fact - I like bursting my ears with music while I'm working.
 
 
 ## 🌐 Socials:
